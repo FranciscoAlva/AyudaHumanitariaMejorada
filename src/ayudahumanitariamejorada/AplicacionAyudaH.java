@@ -1,6 +1,6 @@
 package ayudahumanitariamejorada;
 // LIBRERIAS IMPORTADAS PARA FUNCIONAR EL PROGRAMA
-// Esto es un comentario
+
 import java.sql.*;
 import java.sql.Connection;
 import javax.swing.JOptionPane;
